@@ -1,0 +1,98 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 14px;
+}
+
+.educationList {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.educationItem {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 17px;
+  background: var(--color-secondary); 
+  border: 2px solid var(--color-accent);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.educationItem img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.educationItemDetails {
+  font-family: var(--font-roboto);
+}
+
+.educationItemDetails h3 {
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0;
+  color: var(--color-accent);
+}
+
+.educationItemDetails p {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 4px 0 10px 0;
+  color: var(--color-text);
+}
+
+.educationItemDetails ul {
+  margin-top: 4px;
+  list-style-type: disc;
+  list-style-position: inside;
+  font-size: 18px;
+  color: var(--color-text);
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 830px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+    gap: 34px;
+  }
+
+  .educationList {
+    width: 100%;
+    gap: 20px;
+  }
+
+  .educationItem {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .educationItem img {
+    width: 50px;
+    height: 50px;
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "AI Powered Job Matcher",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project that help job seekers find the right job and all the skills required for it.",
+    "skills": ["Flask", "NLP(spaCy)"],
+    "demo": "https://resume-matcher-uwdz.onrender.com",
+    "source": "https://github.com/adikanishka/resume_matcher"
+  },
+  {
+    "title": "RAG application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project that answers questions based on a given document using RAG.",
+    "skills": ["FastAPI", "Huggingface"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/adikanishka/rag_application"
+  },
+  {
+    "title": "Travel Itinerary Generator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project that helps users plan their trips by generating itineraries based on their budget.",
+    "skills": ["Django", "Generative AI"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/adikanishka/travel_itinerary_generator"
+  },
+  {
+    "title": "Scholarship Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project that predicts scholarship eligibility.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/adikanishka/scholarship_prediction"
+  },
+  {
+    "title": "Customer Churn Analysis",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project that analyzes customer churn and predicts whether a customer will churn or not.",
+    "skills": ["Python", "Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/adikanishka/CustomerChurnAnalysis.git"
+  },
+  {
+    "title": "RNN Based Project",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made with RNN using LSTM to predict the next word in a sentence.",
+    "skills": ["Python", "LSTM"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/adikanishka/RNN.git"
+  }
+]

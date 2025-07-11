@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Data Science Trainee+Intern",
+    "organisation": "SkillVertex",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Worked on Customer Churn Analysis", "Increased accuracy to 95%"],
+    "imageSrc": "history/skillv.png"
+  },
+  {
+    "role": "MERN Stack Developer Intern",
+    "organisation": "Codegnan",
+    "startDate": "June, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on various tasks related to MERN", "Designed Task Manager Application"],
+    "imageSrc": "history/codegnan.png"
+  }
+  
+]

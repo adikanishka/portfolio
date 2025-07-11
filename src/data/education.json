@@ -1,0 +1,26 @@
+[
+  {
+    "degree": "B.Tech in Information Technology",
+    "institution": "CBIT Institute of Technology",
+    "startDate": "Nov 2022",
+    "endDate": "May 2026",
+    "imageSrc": "education/logo.png",
+    "details": [
+      "CGPA: 8.7/10",
+      "Courses: Machine Learning, Data Structures, DBMS, Operating Systems",
+      "Involved in MUNs, hackathons, and sports"
+    ]
+  },
+  {
+    "degree": "Higher Secondary (ICSE)",
+    "institution": "St Ann's High School",
+    "startDate": "Apr 2010",
+    "endDate": "Mar 2020",
+    "imageSrc": "education/st anns.png",
+    "details": [
+      "Percentage: 93%",
+      "Science Stream with CS",
+      "Senior sports captain, participated in various inter-school competitions"
+    ]
+  }
+]
