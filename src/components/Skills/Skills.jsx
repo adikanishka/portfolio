@@ -18,7 +18,7 @@ export const Skills = () => {
                 <div className={styles.skillImageContainer}>
                   
                   <a
-                    href={skill.certificateUrl}
+                      href={`${import.meta.env.BASE_URL}${skill.certificateUrl}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={styles.skillItem}
